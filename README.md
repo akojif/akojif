@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on open source projects
 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Internship
 
 - 💬 Ask me about PWAs
 
-- 📫 How to reach me: [https://twitter.com/akoji_f] Twitter
+- 📫 How to reach me: <a href="https://twitter.com/intent/follow?screen_name=akoji_f&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/akoji_f?label=%40akoji_f&style=social"></a> 
 
 - 😄 Pronouns: He/Him
 
