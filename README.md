@@ -1,4 +1,4 @@
-h1>Hi there 👋🏽</h1>
+<h1>Hi there 👋🏽</h1>
 
 <!--
 
@@ -16,7 +16,7 @@ h1>Hi there 👋🏽</h1>
 
 - 💬 Ask me about PWAs
 
-- 📫 How to reach me: https://twitter.com/akoji_f
+- 📫 How to reach me: [https://twitter.com/akoji_f] Twitter
 
 - 😄 Pronouns: He/Him
 
