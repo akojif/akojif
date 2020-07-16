@@ -5,7 +5,7 @@
 **akojif/akojif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/akojif/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on self development 
 
