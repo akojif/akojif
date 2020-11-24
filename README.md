@@ -7,13 +7,13 @@
 -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on self development 
+- 🔭 I’m currently working on getting better with Web Technologies 
 
 - 🌱 I’m currently learning React/Vue
 
 - 👯 I’m looking to collaborate on open source projects
 
-- 🤔 I’m looking for help with Internship
+- 🤔 I’m looking for help with an Internship
 
 - 💬 Ask me about PWAs
 
