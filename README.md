@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on open source projects
 
-- 🤔 I’m looking for help with an Internship
+- 🤔 I’m looking for help with a Paid Internship
 
 - 💬 Ask me about PWAs
 
