@@ -12,7 +12,7 @@
  <a href="https://instagram.com/akoji_f">
    <img src= "https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:akfrendo@gmail.com">
+<a href="mailto:used4junkmails@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   </p>
